@@ -69,6 +69,8 @@ static HNode *h_detach(HTab *htab,HNode** from){
 
     return node;
 
+
+
 }
 
 const size_t k_rehashing_work = 128;
